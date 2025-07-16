@@ -1,0 +1,16 @@
+######### Environment: Data Analytics Conda
+pandas
+numpy
+statsforecast
+neuralforecast
+darts
+matplotlib
+seaborn
+plotnine
+scikit-learn
+skforecast
+pathlib
+nixtla
+openpyxl
+unidecode
+dotenv
